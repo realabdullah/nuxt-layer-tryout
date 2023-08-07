@@ -1,0 +1,4 @@
+<template>
+  <HelloWorld />
+  <TestC />
+</template>
